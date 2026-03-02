@@ -1,0 +1,45 @@
+# Local Domain 
+# https://raw.githubusercontent.com/Loyalsoldier/domain-list-custom/release/private.txt
+
+full:instant.arubanetworks.com
+full:setmeup.arubanetworks.com
+full:asusrouter.com
+full:router.asus.com
+full:www.asusrouter.com
+full:oasisauth.h3c.com
+full:routerlogin.com
+full:www.routerlogin.com
+full:tplogin.cn
+full:miwifi.com
+full:www.miwifi.com
+internal
+localdomain
+example
+invalid
+localhost
+test
+local
+lan
+zte.home
+my.router
+ts.net
+home.arpa
+hiwifi.com
+tplinkwifi.net
+tendawifi.com
+leike.cc
+plex.direct
+router.ctc
+phicomm.me
+peiluyou.com
+127.in-addr.arpa
+test.steampowered.com
+localhost.ptlogin2.qq.com
+localhost.sec.qq.com
+
+# RCODE 3 (NXDOMAIN)
+
+
+# RCODE 2 (SERVFAIL)
+odds.luongson.app
+
